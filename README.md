@@ -5,7 +5,7 @@ I also wanted a nicer looking table on there so I learned a lot about unicode ch
 
 **generatelabels.php** - Leaves off My Grid/My County IF the county that I'm operating from is the same as one specified in a variable at the top.  (I moved but stayed in the same County but Identify them with different station locations so I couldn't use the Station ID to identify home)
 
-![Sample](images\sample.png)
+![Sample](images/sample.png)
 
 **generatelabels-noalternate.php** - Same as above but all QSO's use My Grid/My County as well and it doesn't use that variable.
 
